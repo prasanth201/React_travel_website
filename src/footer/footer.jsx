@@ -77,7 +77,7 @@ const footer = () => {
     </section>
   </div>
   <div className="text-center p-3" >
-   <p> © 2020 Copyright: Divya Ganesan</p>
+   <p> © 2020 Copyright:Prasanth </p>
   </div>
 </footer>
 </>
